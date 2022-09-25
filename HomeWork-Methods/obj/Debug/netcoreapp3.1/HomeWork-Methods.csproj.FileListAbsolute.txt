@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\bin\Debug\netcoreapp3.1\HomeWork-Methods.exe
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\bin\Debug\netcoreapp3.1\HomeWork-Methods.deps.json
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\bin\Debug\netcoreapp3.1\HomeWork-Methods.runtimeconfig.json
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\bin\Debug\netcoreapp3.1\HomeWork-Methods.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\bin\Debug\netcoreapp3.1\HomeWork-Methods.dll
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\bin\Debug\netcoreapp3.1\HomeWork-Methods.pdb
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.dll
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.pdb
+C:\Users\user\source\repos\HomeWork-Methods\HomeWork-Methods\obj\Debug\netcoreapp3.1\HomeWork-Methods.genruntimeconfig.cache
